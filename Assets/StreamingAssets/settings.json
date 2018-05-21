@@ -1,0 +1,7 @@
+{
+    "gravity":9.81,
+	"fuel":10,
+	"thrust":450,
+	"momentum":45,
+	"mass":40
+}
